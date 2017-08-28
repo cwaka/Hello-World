@@ -1,2 +1,3 @@
 # Hello-World
-First app in Github
+This is my first app using Github
+It seems to be fun using Github.
